@@ -28,3 +28,4 @@ def power2n(n):
     return 2 * power2n(n-1)
   ## 複雜度O(n)
 
+## 使用CHATGPT協助完成，連結https://chatgpt.com/share/68c8db00-6790-8009-9ffd-45065ff54c80
